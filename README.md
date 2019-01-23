@@ -4,7 +4,7 @@
 
 ## Instalasi Git
 
-* Download Git, buka website resminya Git [GitHub](git-scm.com)
+* Download Git, buka website resminya Git(http://git-scm.com)
 * Kemudian unduh Git sesuai arsitektur komputer kita (32bit atau 64bit)
 * Setelah terinstal di Windows, untuk mencobanya silakan buka CMD atau PowerShell, kemudian ketik perintah 
 `git --version`
@@ -114,7 +114,7 @@
 
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repository.
 * Untuk mengcloning sebuah repository, silahkan masukan perintah
-`git clone [url]
+`git clone [url]`
 ![GitHub Logo](https://github.com/Jajang1293/Latihan1/blob/master/clone.PNG)
 
 # Selesai
