@@ -1,12 +1,13 @@
 # Tutorial Penggunaan Git
 
-* Git adalah salah satu sitem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus TOrvaids.
+* Git adalah salah satu sitem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvaids.
 
 ## Instalasi Git
 
-* Download Git, buka website resminya Git (git-scm.com).
-* Kemudian unduh Git sesuai arsitektur komputer kita (32bit atau 64bit).
-* Setelah terinstal di Windows, untuk mencobanya silakan buka CMD atau PowerShell, kemudian ketik perintah `git --version`
+* Download Git, buka website resminya Git [GitHub](git-scm.com)
+* Kemudian unduh Git sesuai arsitektur komputer kita (32bit atau 64bit)
+* Setelah terinstal di Windows, untuk mencobanya silakan buka CMD atau PowerShell, kemudian ketik perintah 
+`git --version`
 
 ![GitHub Logo](https://github.com/Jajang1293/Latihan1/blob/master/cmd.PNG)
 
@@ -61,7 +62,7 @@
 ![GitHub Logo](https://github.com/Jajang1293/Latihan1/blob/master/readme.PNG)
 
 * Tambahkanambahkan file README.md kedalam berkas repo dengan perintah **git add**.
-`git add readme.md`
+`git add README.md`
 * Cek status repository, masukan perintah
 `git status`
  
